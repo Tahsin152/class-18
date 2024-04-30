@@ -1,0 +1,9 @@
+.logo {
+    height: 50px;
+    width: 100%;
+}
+.pass {
+    border-radius: 10px;
+   outline-style: solid;
+   outline-color: black;
+}
